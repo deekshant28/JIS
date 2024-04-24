@@ -1,0 +1,9 @@
+password hasing.
+flash messages for errors and successes.
+next hearding to be changed to hearing date.
+my social media profiles in footer
+profile page.
+forgot password.
+contact my email.
+my social media profiles for contact in about.
+jwt for authentication.
